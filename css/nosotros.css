@@ -1,0 +1,126 @@
+.portada {
+	width: 100%;
+	max-width: 1280px;
+	height: 400px;
+  	margin: 0 auto;
+  	padding: 0;
+  	position: relative;
+  	overflow: hidden;
+}
+
+.portada img {
+	width: 150%;
+	position: absolute;
+	left: 0;
+}
+
+div.marco {
+	max-width: 500px;
+	height: 200px;
+	background-color: black;
+	filter:alpha(opacity=70);
+	-moz-opacity:.70;
+	opacity:.70;
+	position: relative;
+	top: 120px;
+	left: 320px;
+	color: white;
+	padding: 30px 20px;
+	text-align: center;
+}
+
+
+div.pilares {
+	width: 100%;
+	max-width: 1280px;
+	height: 400px;
+  	margin: 0 auto;
+  	padding: 0;
+  	position: relative;
+  	overflow: hidden;
+  	text-align: center;
+}
+
+div.pilar {
+	position: relative;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.pilares hr {
+	margin: 20px 0;
+}
+
+.instructores {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	position: relative;
+}
+
+.instructores h1 {
+	margin-bottom: 40px;
+}
+
+.instructores img {
+	width: 400px;
+	height: 200px;
+	position: relative;
+	text-align: left;
+}
+
+
+.frase {
+	width: 100%;
+	max-width: 1280px;
+	height: 400px;
+  	padding: 0;
+  	margin: 0 auto;
+	position: relative;
+	text-align: center;
+}
+
+img.textura-1 {
+	width: 50%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+}
+
+img.textura-2 {
+	width: 50%;
+	height: 100%;
+	position: absolute;
+	right: 0;
+}
+
+.frase p {
+	position: relative;
+	font-size: 45px;
+	padding: 120px 0 150px 0;
+}
+
+
+.visitanos {
+	width: 100%;
+	max-width: 1280px;
+	height: 600px;
+	background-color: #192951;
+	color: white;
+	padding: 0;
+  	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	padding-top: 100px; 
+}
+
+div.map {
+	position: absolute;
+	top: 100px;
+}
+
+p.direccion {
+	white-space: pre-line;
+}
+
